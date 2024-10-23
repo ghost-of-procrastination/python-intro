@@ -21,7 +21,6 @@ print(x, y, z)
 
 a = 'global a'
 
-
 def fn():
     a = 'local a'
     print('fn', a)
@@ -45,7 +44,6 @@ x = range(6)
 x = {"name": "John", "age": 36}
 print(x["name"])
 x = {"apple", "banana", "cherry"}
-
 
 
 
